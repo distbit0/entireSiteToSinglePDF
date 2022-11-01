@@ -66,7 +66,7 @@ do
                         # Plus one to number.
                         let "number += 1"
                         # Message about rename.
-                        echo "$number Renaming: $name"
+                        #echo "$number Renaming: $name"
                         # Rename.
                         mv "$name" "$newname"
                 fi
@@ -76,7 +76,7 @@ do
     popd >/dev/null 2>&1
 done
 
-echo -en "\n All operations is complited."
+#echo -en "\n All operations is complited."
 
 if [ "$number_not" -ne "0" ]
     then
@@ -89,8 +89,6 @@ if [ "$number" -eq "0" ]
 elif [ "$number" -eq "1" ]
     then
         echo -en "\n $number renamed.\n"
-    else
-        echo -en "\n Renamed files and catalogs: $number\n"
 fi
 
 exit 0

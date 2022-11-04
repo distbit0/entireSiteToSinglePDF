@@ -19,7 +19,7 @@
 #        ~/space_to_underscore.sh
 
 # Check for proper priveliges
-[ "`whoami`" = root ] || exec sudo "$0" "$@"
+##[ "`whoami`" = root ] || exec sudo "$0" "$@"
 
 
 ####################### DIALOG ############################

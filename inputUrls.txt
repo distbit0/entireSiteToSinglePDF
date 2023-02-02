@@ -1,0 +1,15 @@
+https://perp.notion.site/Curie-Docs-for-Partners-a2c316abfc1549c7b4d6e310d7a3987d
+https://perp.notion.site/Perpetual-Swap-Contract-s-Specs-Simulations-Multi-collateral-304662ed964c4dcd89c6bd019c97a670
+https://docs.google.com/document/d/1Pi1V1Zjjg7Jy8GlVFZo_JGzBSWz-S5Jx3Hp5CKr6Tes/edit
+https://perp.notion.site/Intentional-Bad-Debt-Attack-0f4253a7e311429b8ed629f19e4a5d14
+https://perp.notion.site/Curie-Docs-for-Partners-a2c316abfc1549c7b4d6e310d7a3987d#e5371359d68d4672be5224a21fca2799
+https://perp.notion.site/Bad-Debt-Attack-5cd74c9cc0b845ffa3cf13012c7fdb8c
+https://perp.notion.site/Intentional-Bad-Debt-Attack-0f4253a7e311429b8ed629f19e4a5d14
+https://perp.notion.site/Liquidation-ea04a59fe7524427a6ee6523e82a3d5a
+https://perp.notion.site/Calculation-of-makers-Open-Interest-fe6a4563f00d4b10805b4376d98b7833
+https://perp.notion.site/Stop-a-single-market-1f65bc0eada0497f82aea51695c5fc37
+https://perp.notion.site/WIP-OpenInterest-Calculation-70f531ecdf6641e3882e22a35cc244a3
+https://perp.notion.site/Index-price-spread-attack-2f203d45b34f4cc3ab80ac835247030f
+https://perp.notion.site/Equations-for-Maker-f4fe0a23bcae4f4bba254a3186fa18a3
+https://perp.notion.site/Emergency-Shutdown-Market-7a0af39504fa4f74bfa1890c78b3a54c
+

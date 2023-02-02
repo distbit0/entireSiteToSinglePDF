@@ -1,0 +1,7 @@
+Write a python function which converts a file containing a list of urls into a sitemap file, and then hosts this sitemap file at localhost. 
+
+The python script should take a list of links in the form of a newline-separated text file called inputUrls.txt
+
+The python script should then create a sitemap.xml file from the list of urls, following the sitemap format. It should then host this at localhost:8972.
+
+npx website2pdf --sitemapUrl $sitemapUrl;
